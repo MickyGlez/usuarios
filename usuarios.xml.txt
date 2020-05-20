@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>Jose Gonzalez</nombre>
+		<twitter>josegonzalez</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>Julio Cesar</nombre>
+		<twitter>juliocesar</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>Estela Mendez</nombre>
+		<twitter>estelamendez</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>Noemi Ponce</nombre>
+		<twitter>noemiponce</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>5</usuarioid>
+		<nombre>Cinty Nova</nombre>
+		<twitter>cintynova</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>6</usuarioid>
+		<nombre>Fabiola Quintero</nombre>
+		<twitter>fabiolaquintero</twitter>
+	</usuario>
+</usuarios>
