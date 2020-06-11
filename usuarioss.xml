@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>José Glez</nombre>
+		<twitter>joseglez</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>Maribel Janeth</nombre>
+		<twitter>marijane</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>Manuel Glez</nombre>
+		<twitter>manuelglez</twitter>
+	</usuario>
+</usuarios>
